@@ -9,7 +9,7 @@
 ## Problem Statement
 PhoneNow’s Call Centre Manager, Claire, requires a clear, data-driven overview of call centre performance trends to enhance operational efficiency and customer satisfaction. The goal is to build a Power BI dashboard that visualizes key performance indicators (KPIs) and provides actionable insights into customer and agent behavior.
 
-Key Findings:  
+**Key Findings:**
 1. **Call Handling Performance:**  
    - **81.08% of calls were answered**, while **18.92% were abandoned**.  
    - **72.92% of calls were resolved**, leaving **27.08% unresolved**.  
