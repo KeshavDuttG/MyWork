@@ -3,7 +3,7 @@
 ### Education
 
 ### Projects
-**Call Centre Performance Analysis**
+## **Call Centre Performance Analysis**
 - **Dashboard Link:** https://app.powerbi.com/groups/me/reports/a1cd1474-c6ca-4335-8dc8-259d0e42970c/e92d244d30c0159513ae?experience=power-bi
 
 **Problem Statement**
@@ -24,7 +24,8 @@ PhoneNow’s Call Centre Manager, Claire, requires a clear, data-driven overview
    - **Dan** handled the most calls **(523)**, followed by **Becky (517)**.  
    - **Greg had the highest number of resolved calls (455 out of 502 answered)**.
 
-**School Project (UI/UX): CanPay Banking Application - A High Fidelity Mockup Storyboard**
+
+## **School Project (UI/UX): CanPay Banking Application - A High Fidelity Mockup Storyboard**
 - **Storyboard Link:** https://www.figma.com/proto/joIZgNXRfoGyzNDnA6PaLA/CanPay-Banking-Application?node-id=1-1813&p=f&t=F4AL3s1vK8T8JIkG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 - **Overview**
