@@ -33,8 +33,8 @@ CanPay is a financial management application designed to simplify banking, digit
 
 - **Features & Functionalities**
   - 1. User Registration & Bank Account Setup
-    2. Wallet Recharge
-    3. Wallet Payments
-    4. Bank Fund Transfers
-    5. Budget Planning
-    6. Spending Analysis
+  -  2. Wallet Recharge
+  -  3. Wallet Payments
+  -  4. Bank Fund Transfers
+  -  5. Budget Planning
+  -  6. Spending Analysis
