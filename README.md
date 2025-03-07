@@ -23,7 +23,7 @@ Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – 
 
 ## Projects
 ### Call Centre Performance Analysis
-- **Dashboard Link:** https://app.powerbi.com/groups/me/reports/a1cd1474-c6ca-4335-8dc8-259d0e42970c/e92d244d30c0159513ae?experience=power-bi
+- **Dashboard Link:** ([https://app.powerbi.com/groups/me/reports/a1cd1474-c6ca-4335-8dc8-259d0e42970c/e92d244d30c0159513ae?experience=power-bi])
 
 **Problem Statement**
 
@@ -45,7 +45,7 @@ PhoneNow’s Call Centre Manager, Claire, requires a clear, data-driven overview
 
 
 ### **School Project (UI/UX): CanPay Banking Application - A High Fidelity Mockup Storyboard(Clickable)**
-- **Storyboard Link:** https://www.figma.com/proto/joIZgNXRfoGyzNDnA6PaLA/CanPay-Banking-Application?node-id=1-1813&p=f&t=F4AL3s1vK8T8JIkG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+- **Storyboard Link:** ([https://www.figma.com/proto/joIZgNXRfoGyzNDnA6PaLA/CanPay-Banking-Application?node-id=1-1813&p=f&t=F4AL3s1vK8T8JIkG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1])
 
 **Overview**
 CanPay is a financial management application designed to simplify banking, digital wallet transactions, and budgeting for users. This document outlines the functional requirements, user stories, and design specifications necessary for its development.
