@@ -1,5 +1,9 @@
 # Business Analyst
 
+## Skills
+• Application skills: MS Office, Alteryx Designer, Tableau, Jira.
+• Programming Skills - MS SQL (Beginner), Python (Beginner), R (Beginner).
+
 ## Education
 ### George Brown College, Toronto, Ontario
 Post Graduate Certificate (Analytics for business decision making) Sep 2024 – Apr 2025
@@ -8,10 +12,9 @@ Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – 
 ## Work Experience
 ### KPMG, New Delhi, India
 **Executive – Audit - Data Analytics COE (Centre of Excellence) Apr 2023 – July 2023**
-• Automated sub-ledger processes using Alteryx Designer increasing overall efficiency and accuracy by 80 percent.
-• Trained employees on Alteryx automated sub-ledger process of depreciation analytics, emphasizing time-saving benefits
-by 60 percent on data.
-• Reviewed and gave insights to analysts from the Alteryx team.
+- Automated sub-ledger processes using Alteryx Designer increasing overall efficiency and accuracy by 80 percent.
+- Trained employees on Alteryx automated sub-ledger process of depreciation analytics, emphasizing time-saving by 60 percent.
+- Reviewed and gave insights to analysts on outputs of Alteryx Procedures.
 
 **Audit Analyst - Data Analytics COE (Centre of Excellence) Aug 2021 – Mar 2023**
 • Performed Journal Entry Testing using the KPMG CLARA dashboard and Alteryx workflows enhancing efficiency by 70 percent.
