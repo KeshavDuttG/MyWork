@@ -17,9 +17,9 @@ Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – 
 - Reviewed and gave insights to analysts on outputs of Alteryx Procedures.
 
 **Audit Analyst - Data Analytics COE (Centre of Excellence) Aug 2021 – Mar 2023**
-• Performed Journal Entry Testing using the KPMG CLARA dashboard and Alteryx workflows enhancing efficiency by 70 percent.
-• Performed sanitization and import/export of a high volume of data using SQL, Alteryx Designer, and CaseWare Idea.
-• Performed substantive procedures (ex Test of Details) and prepared work papers based on stat dues, cash & bank.
+- Performed Journal Entry Testing using the KPMG CLARA dashboard and Alteryx workflows enhancing efficiency by 70 percent.
+- Performed sanitization and import/export of a high volume of data using SQL, Alteryx Designer, and CaseWare Idea.
+- Performed substantive procedures (ex Test of Details) and prepared work papers based on stat dues, cash & bank.
 
 ## Projects
 ### Call Centre Performance Analysis
