@@ -1,8 +1,8 @@
 # Business Analyst
 
 ## Skills
-• Application skills: MS Office, Alteryx Designer, Tableau, Jira.
-• Programming Skills - MS SQL (Beginner), Python (Beginner), R (Beginner).
+- Application skills: MS Office, Alteryx Designer, Tableau, Jira.
+- Programming Skills - MS SQL (Beginner), Python (Beginner), R (Beginner).
 
 ## Education
 ### George Brown College, Toronto, Ontario
