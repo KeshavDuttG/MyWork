@@ -1,7 +1,7 @@
 # Business Analyst
 
 ## Skills
-- Application skills: MS Office, Alteryx Designer, Tableau, Jira.
+- Application skills: MS Office, Alteryx Designer, Power BI, Tableau, Jira.
 - Programming Skills - MS SQL (Beginner), Python (Beginner), R (Beginner).
 
 ## Education
