@@ -1,8 +1,9 @@
 # Business Analyst
+With two years of data and business analytics experience at a top consulting firm, I have a proven track record of improving client efficiency and accuracy. My education and skills enable me to contribute effectively in a fast-paced, excellence-focused environment. I have successfully helped clients achieve their strategic goals through problem-solving,  entrepreneurial thinking, and innovation while demonstrating strong collaboration skills and a highly motivated approach.
 
 ## Skills
 - Application skills: MS Office, Alteryx Designer, Power BI, Tableau, Jira.
-- Programming Skills - MS SQL (Beginner), Python (Beginner), R (Beginner).
+- Programming Skills: MS SQL (Beginner), Python (Beginner).
 
 ## Education
 ### George Brown College, Toronto, Ontario
