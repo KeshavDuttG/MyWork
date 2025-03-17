@@ -3,7 +3,7 @@ With two years of data and business analytics experience at a top consulting fir
 
 ## Skills
 - Application skills: MS Office, Alteryx Designer, Power BI, Tableau, Jira.
-- Programming Skills: MS SQL (Beginner), Python (Beginner).
+- Programming Skills: MS SQL, Python.
 
 ## Education
 ### George Brown College, Toronto, Ontario
