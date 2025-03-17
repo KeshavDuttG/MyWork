@@ -1,5 +1,5 @@
 # Business Analyst
-With two years of data and business analytics experience at a top consulting firm, I have a proven track record of improving client efficiency and accuracy. My education and skills enable me to contribute effectively in a fast-paced, excellence-focused environment. I have successfully helped clients achieve their strategic goals through problem-solving,  entrepreneurial thinking, and innovation while demonstrating strong collaboration skills and a highly motivated approach.
+Two years of data and business analytics consulting experience, driving client success through efficiency, accuracy, and innovative problem-solving in fast-paced environments.
 
 ## Skills
 - Application skills: MS Office, Alteryx Designer, Power BI, Tableau, Jira.
@@ -22,8 +22,8 @@ Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – 
 - Performed sanitization and import/export of a high volume of data using SQL, Alteryx Designer, and CaseWare Idea.
 - Performed substantive procedures (ex Test of Details) and prepared work papers based on stat dues, cash & bank.
 
-## Projects
-### Call Centre Performance and customer Retention Analysis
+## Projects:
+### Call Centre Performance and customer Retention Analysis:
 
 - **Call Centre Dashboard Link:** ([https://app.powerbi.com/groups/me/reports/a1cd1474-c6ca-4335-8dc8-259d0e42970c/e92d244d30c0159513ae?experience=power-bi])
 
