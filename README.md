@@ -27,7 +27,13 @@ Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – 
 
 - **Call Centre Dashboard Link:** ([https://app.powerbi.com/groups/me/reports/a1cd1474-c6ca-4335-8dc8-259d0e42970c/e92d244d30c0159513ae?experience=power-bi])
 
+![Screenshot 2025-03-13 155231](https://github.com/user-attachments/assets/59774d64-dd68-4cd4-a3b9-3a4c52295b58)
+
+
 - **Customer Retention Dashboard Link:** ([https://app.powerbi.com/groups/me/reports/24ad72b0-6a7d-4181-8f17-54b6ee050e6b/ReportSection?experience=power-bi])
+
+![Screenshot 2025-03-13 161254](https://github.com/user-attachments/assets/d2c315be-31c4-47a7-b01e-d1df4fe42418)
+
 
 **Problem Statement**
 
