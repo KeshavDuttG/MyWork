@@ -58,7 +58,11 @@ PhoneNow’s Call Centre Manager, Claire, requires a clear, data-driven overview
 
 
 ### **Group Project (UI/UX): CanPay Banking Application - A High Fidelity Mockup Storyboard(Clickable)**
+
 - **Storyboard Link:** ([https://www.figma.com/proto/joIZgNXRfoGyzNDnA6PaLA/CanPay-Banking-Application?node-id=1-1813&p=f&t=F4AL3s1vK8T8JIkG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1])
+
+![Screenshot 2025-03-20 160254](https://github.com/user-attachments/assets/5e7531a7-1540-44ea-a233-d6c193e391e8)
+
 
 **Overview**
 CanPay is a financial management application designed to simplify banking, digital wallet transactions, and budgeting for users. This document outlines the functional requirements, user stories, and design specifications necessary for its development.
