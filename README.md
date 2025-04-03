@@ -7,8 +7,8 @@ Two years of data and business analytics consulting experience, driving client s
 
 ## Education
 ### George Brown College, Toronto, Ontario
-Post Graduate Certificate (Analytics for business decision making) Sep 2024 – Apr 2025
-Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – Aug 2024
+- Post Graduate Certificate (Analytics for business decision making) Sep 2024 – Apr 2025
+- Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – Aug 2024
 
 ## Work Experience
 ### KPMG, New Delhi, India
