@@ -11,16 +11,18 @@ Two years of data and business analytics consulting experience, driving client s
 - Post Graduate Certificate (Information Systems Business Analysis)  Sep 2023 – Aug 2024
 
 ## Work Experience
-### KPMG, New Delhi, India
-**Executive – Audit - Data Analytics COE (Centre of Excellence) Apr 2023 – July 2023**
-- Automated sub-ledger processes using Alteryx Designer increasing overall efficiency and accuracy by 80 percent.
-- Trained employees on Alteryx automated sub-ledger process of depreciation analytics, emphasizing time-saving by 60 percent.
-- Reviewed and gave insights to analysts on outputs of Alteryx Procedures.
+### KPMG, Toronto
+**Risk Analyst Aug 2025 – Feb 2026**
+-	Supported the national Root Cause Analysis (RCA) team through targeted interviews, document reviews, and data analysis to identify audit and compliance risks.
+-	Analyzed regulatory inspection findings (PCAOB, CPAB, CPAO) to determine root causes and support remediation.
+-	Monitored audit client activity using internal and external systems, maintaining risk databases and delivering timely stakeholder reporting.
+-	Supported Internal Quality Inspection and enterprise risk initiatives through regulatory inquiry response, ad-hoc analysis, and process improvements.
 
-**Audit Analyst - Data Analytics COE (Centre of Excellence) Aug 2021 – Mar 2023**
-- Performed Journal Entry Testing using the KPMG CLARA dashboard and Alteryx workflows enhancing efficiency by 70 percent.
-- Performed sanitization and import/export of a high volume of data using SQL, Alteryx Designer, and CaseWare Idea.
-- Performed substantive procedures (ex Test of Details) and prepared work papers based on stat dues, cash & bank.
+**Audit Analyst - Data Analytics COE (Centre of Excellence) Aug 2021 – July 2023**
+-	Automated sub-ledger processes such as depreciation, developing routines using Alteryx Designer, increasing overall efficiency and accuracy by 80 percent.
+-	Trained employees on Alteryx automated sub-ledger processes like depreciation analytics, emphasizing time-saving benefits by 60 percent.
+-	Performed start-to-end Journal Entry Testing on high-risk criteria with completeness using the Kcw dashboard and Alteryx Designer workflows on high-volume data, enhancing efficiency by 70 percent.
+-	Performed substantive audit procedures (tests of details) and prepared audit documentation for various engagements.
 
 ## Projects:
 ### Call Centre Performance and customer Retention Analysis:
