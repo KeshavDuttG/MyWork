@@ -17,7 +17,7 @@ Two years of data and business analytics consulting experience, driving client s
 -	Analyzed regulatory inspection findings (PCAOB, CPAB, CPAO) to determine root causes and support remediation.
 -	Monitored audit client activity using internal and external systems, maintaining risk databases and delivering timely stakeholder reporting.
 -	Supported Internal Quality Inspection and enterprise risk initiatives through regulatory inquiry response, ad-hoc analysis, and process improvements.
-
+### KPMG India
 **Audit Analyst - Data Analytics COE (Centre of Excellence) Aug 2021 – July 2023**
 -	Automated sub-ledger processes such as depreciation, developing routines using Alteryx Designer, increasing overall efficiency and accuracy by 80 percent.
 -	Trained employees on Alteryx automated sub-ledger processes like depreciation analytics, emphasizing time-saving benefits by 60 percent.
