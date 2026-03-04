@@ -60,7 +60,28 @@ PhoneNow’s Call Centre Manager, Claire, requires a clear, data-driven overview
 6. **Demographics and Subscription Duration:** More than 55% of customers with a subscription period under one year are at greater risk of churning. 
 
 
-### **Group Project (UI/UX): CanPay Banking Application - A High Fidelity Mockup Storyboard(Clickable)**
+## **Group Project: 
+### Stock Performance Prediction & Sector Analysis
+<img width="1148" height="647" alt="Screenshot 2026-03-04 143211" src="https://github.com/user-attachments/assets/2354d7af-967a-4298-9b96-f36464fbc01f" />
+<img width="1159" height="654" alt="Screenshot 2026-03-04 150815" src="https://github.com/user-attachments/assets/add696b5-8e9e-416c-87d2-a1fdc552b497" />
+<img width="1158" height="650" alt="image" src="https://github.com/user-attachments/assets/835091f2-f3ad-4acb-800f-a66754a3e1b6" />
+
+**Problem Statement**
+
+Financial markets produce large volumes of data, but converting that data into actionable investment insights remains a key challenge for consulting and strategy teams. This capstone project, developed for CHML Consulting, builds an end-to-end machine learning solution using historical data (2014–2024) from the S&P 500 to simulate how a consulting team could support data-driven investment decisions.
+
+The project focuses on four core objectives:
+
+Stock Price Forecasting – Predict short-term price movements using time-series and tree-based machine learning models.
+
+Sector-Level Analysis – Identify performance trends and correlations across industries.
+
+Growth vs. Value Classification – Segment stocks using financial metrics such as P/E ratio, returns, and volatility.
+
+Risk-Based Clustering – Group stocks by performance and risk profiles to support diversification strategies.
+
+
+### CanPay Banking Application(UI/UX) - A High Fidelity Mockup Storyboard(Clickable)**
 
 - **Storyboard Link:** ([https://www.figma.com/proto/joIZgNXRfoGyzNDnA6PaLA/CanPay-Banking-Application?node-id=1-1813&p=f&t=F4AL3s1vK8T8JIkG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1])
 
