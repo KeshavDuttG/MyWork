@@ -64,7 +64,9 @@ PhoneNow’s Call Centre Manager, Claire, requires a clear, data-driven overview
 ### Stock Performance Prediction & Sector Analysis
 
 ![Screenshot 2026-03-04 143211](https://github.com/user-attachments/assets/2354d7af-967a-4298-9b96-f36464fbc01f)
+
 ![Screenshot 2026-03-04 150815](https://github.com/user-attachments/assets/add696b5-8e9e-416c-87d2-a1fdc552b497)
+
 ![Screenshot 2026-03-04 151149](https://github.com/user-attachments/assets/21d2b7eb-a136-4215-afac-ad68bb21ac01)
 
 
