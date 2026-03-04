@@ -60,7 +60,7 @@ PhoneNow’s Call Centre Manager, Claire, requires a clear, data-driven overview
 6. **Demographics and Subscription Duration:** More than 55% of customers with a subscription period under one year are at greater risk of churning. 
 
 
-## **Group Project: 
+## **Group Project:** 
 ### Stock Performance Prediction & Sector Analysis
 <img width="1148" height="647" alt="Screenshot 2026-03-04 143211" src="https://github.com/user-attachments/assets/2354d7af-967a-4298-9b96-f36464fbc01f" />
 <img width="1159" height="654" alt="Screenshot 2026-03-04 150815" src="https://github.com/user-attachments/assets/add696b5-8e9e-416c-87d2-a1fdc552b497" />
