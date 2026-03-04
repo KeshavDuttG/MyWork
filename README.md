@@ -80,6 +80,16 @@ Growth vs. Value Classification – Segment stocks using financial metrics such 
 
 Risk-Based Clustering – Group stocks by performance and risk profiles to support diversification strategies.
 
+**Key Insights**
+1. Accurate Short-Term Price Forecasts – The scatter plot of current vs. predicted stock prices shows that the LSTM and tree-based models produce forecasts closely aligned with actual prices, demonstrating strong predictive performance across the S&P 500.
+
+2. Sector-Level Trends – By filtering stocks by sector, it’s clear that certain sectors, such as Information Technology and Healthcare, consistently show higher growth potential, while others like Consumer Staples display steadier but moderate performance.
+
+3. Aggregate Performance Over Time – The line chart comparing the sum of current vs. predicted prices by year highlights periods of accelerated growth (e.g., post-2020) and validates the models’ ability to capture long-term market trends.
+
+4. Confidence Bounds Analysis – The confidence interval gauge provides a visual measure of forecast uncertainty, helping identify which predictions carry higher risk and informing more cautious investment strategies.
+
+5. Interactive Decision Support – The dashboard enables users to filter by company, sector, and time period, making it a practical tool to explore stock performance, compare predictions, and prioritize investment opportunities.
 
 ### CanPay Banking Application(UI/UX) - A High Fidelity Mockup Storyboard(Clickable)**
 
